@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+div{
+	background-color: yellow;
+	display: inline-block;
+}
+#f2{
+	text-align: center;
+}
+#f1{
+	tect-align: center;
+}
