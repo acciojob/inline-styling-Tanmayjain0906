@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 #f1,#f2{
-	background-color: rgb(255, 255, 0);
+	background: yellow;
 	display: inline-block;
 	text-align: center;
 }
