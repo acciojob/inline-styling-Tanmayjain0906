@@ -1,11 +1,6 @@
 /*  your css code here. If applicable */
-div{
+#f1,#f2{
 	background-color: yellow;
 	display: inline-block;
-}
-#f2{
 	text-align: center;
-}
-#f1{
-	tect-align: center;
 }
